@@ -1,6 +1,9 @@
 {
   "name": "sendgrid-slack",
   "version": "0.0.1",
+  "engines": {
+        "node": "6.11.1"
+  },
   "dependencies": {
     "body-parser": "~1.4.3",
     "coffee-script": "^1.7.1",
